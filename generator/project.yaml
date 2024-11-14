@@ -20,7 +20,7 @@ database:
     # 用户名
     user: root
     # 密码
-    password:
+    password: 123456
   # 获取表配置，支持 % 和 _ 模糊匹配，可以配置多个值
   # 还有一个支持复杂规则 tableRules 属性后续单独介绍
   tables:
